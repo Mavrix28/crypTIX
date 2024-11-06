@@ -28,5 +28,5 @@ Getting Started
 
 Prerequisites
 
-	•	Ensure you have internet access for real-time updates.
-	•	An account with crypTix (if applicable for personalized features like Watchlist and Dashboard).
+•Ensure you have internet access for real-time updates.
+•An account with crypTix (if applicable for personalized features like Watchlist and Dashboard).
